@@ -2,7 +2,7 @@ Package: camtrapRdeluxe
 Type: Package
 Title: A R package that builds on camtrapR to provide more functionalities and flexibility
 Version: 0.99.10.9999
-Date: 2023-11-22
+Date: 2024-11-22
 Authors@R: c(
         person("Juergen", "Niedballa", email = "niedballa@izw-berlin.de", role = c("aut", "cre")),
         person("Alexandre", "Courtiol", role = "aut"),
